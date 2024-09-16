@@ -11,8 +11,8 @@
 ## 🗂️ Projects:
 | Project Name     | Description                                             | Live Demo  | Repo  |
 | ---------------- | ------------------------------------------------------- | ---------- | ----- |
-| **Harmonia Oasis Resorts** 🎨 | A creative front-end project showcasing UI/UX design.    | [Live](https://harmonia-oasis-ceca56dc2dde.herokuapp.com/)  | [Code](#) |
-| **Stay Motivated** 💻 | Fullstack app using React, Node.js, and MongoDB.         | [Live](https://stay-motivated-6f12b575dda7.herokuapp.com/)  | [Code](#) |
-| **MotoHub** 🔍 | AI-powered web app designed to boost productivity.       | [Live](#)  | [Code](#) |
-| **Employee Bubble** 🚀 | Interactive web app with GraphQL for real-time features. | [Live](https://employee-management-system-hahx.onrender.com/)  | [Code](#) |
+| **Harmonia Oasis Resorts** 🎨 | A creative MERN stack project to simulate booking a hotel resort.    | [Live](https://harmonia-oasis-ceca56dc2dde.herokuapp.com/)  | [Code](#) |
+| **Stay Motivated** 💻 | Motivational/Inspiring Fullstack app using React, Node.js, and MongoDB.         | [Live](https://stay-motivated-6f12b575dda7.herokuapp.com/)  | [Code](#) |
+| **MotoHub** 🔍 | Used-car Dealership with test drive scheduling and realistic features.       | [Live](#)  | [Code](#) |
+| **Employee Bubble** 🚀 | Realistic Employee Management System | [Live](https://employee-management-system-hahx.onrender.com/)  | [Code](#) |
 
