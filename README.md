@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m Tamir!<br>💻 Aspiring Fullstack Developer | Lifelong Coder<br><br>From writing my first line of code as a kid, I've been passionate about turning creative ideas into functional, fun, and engaging applications. With a love for problem-solving and an insatiable curiosity, I'm constantly pushing myself to learn new technologies and build projects that stand out.<br><br>🎯 I’m focused on becoming a well-rounded software developer, and I enjoy working across the stack to bring intuitive user experiences to life. Whether it's creating sleek front-end designs, building efficient back-end systems, or exploring new frameworks, I'm always excited to dive into a new challenge.<br><br>🔧 Currently exploring:<br><br>Fullstack development with React, Node.js, and GraphQL<br>Implementing AI to create and increase productive code.<br>Building engaging and interactive web applications<br>📚 Always learning, always coding. My goal is to develop applications that not only solve problems but also spark joy and creativity.<br>
 
+# 🗂️ View my Portfolio!:
+[![Portfolio](https://codingmir.netlify.app/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamir-phillips-6096922ba)
