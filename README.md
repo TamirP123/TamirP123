@@ -15,6 +15,7 @@
 | Project Name     | Description                                             | Live Demo  | Repo  |
 | ---------------- | ------------------------------------------------------- | ---------- | ----- |
 | **Vaulted Kicks**  | An e-Commerce sneaker site.    | [Live](https://vaultedkicks-30b2c33a59d5.herokuapp.com/)  | [Code](https://github.com/TamirP123/vaulted-kicks-ecommercev) |
+| **Bible Mentor AI**  | AI Integrated Bible studying application.   | [Live]([https://vaultedkicks-30b2c33a59d5.herokuapp.com/](https://bible-mentor-ai-0655b8172ba3.herokuapp.com/))  | [Code](https://github.com/TamirP123/biblementor-react) |
 | **Harmonia Oasis Resorts**  | A creative MERN stack project to simulate booking a hotel resort.    | [Live](https://harmonia-oasis-ceca56dc2dde.herokuapp.com/)  | [Code](https://github.com/TamirP123/resort-booking-site) |
 | **Stay Motivated**  | Motivational/Inspiring Fullstack app using React, Node.js, and MongoDB.         | [Live](https://stay-motivated-6f12b575dda7.herokuapp.com/)  | [Code](https://github.com/TamirP123/motivational-react-app) |
 | **MotoHub**  | Used-car Dealership with test drive scheduling and realistic features.       | [Live](https://motohub-bc8994481144.herokuapp.com/)  | [Code](https://github.com/TamirP123/motohub-mern) |
